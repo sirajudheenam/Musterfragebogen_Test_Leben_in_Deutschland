@@ -1,0 +1,29 @@
+:root {
+  --color-lightest: #fff4e6;
+  --color-light: #ffe8cc;
+  --color-medium: #ffa94d;
+  --color-dark: #ff922b;
+
+  --color-darkest-react-quiz: #343a40;
+  --color-dark-react-quiz: #495057;
+  --color-medium-react-quiz: #ced4da;
+  --color-light-react-quiz: #f1f3f5;
+  --color-theme-react-quiz: #1098ad;
+  --color-accent-react-quiz: #ffa94d;
+
+}
+
+*,
+*:before,
+*:after {
+  /* box-sizing: inherit; */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+html {
+  font-size: 62.5%;
+  margin: 0;
+}
